@@ -1,0 +1,8 @@
+.env
+*.pdf
+*.csv
+*.xlsx
+*.txt
+*.pub
+AWS_Upload_tables/
+git_dados
